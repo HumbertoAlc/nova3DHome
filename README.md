@@ -45,7 +45,7 @@ Improve frontend development skills by building a functional, responsive, and vi
 
 ### Features Section
 <p align="center">
-  <img src="assets/features.jpeg" width="900"/>
+  <img src="assets/featuress.jpeg" width="900"/>
 </p>
 
 ### stats
